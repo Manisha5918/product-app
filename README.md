@@ -347,33 +347,36 @@ Implemented using:
 - CSS Flexbox
 - Responsive layouts
 
-
 ---
 
-#  Screenshots
-
-## Login Page
-
-(Add Login Screenshot)
+# 📸 Screenshots
 
 
-## Home Page
+## 🔐 Login Page
 
-(Add Home Screenshot)
-
-
-## Product Page
-
-(Add Product Screenshot)
+![Login Page](screenshots/login.png)
 
 
-## Cart Page
+## 🏠 Home Page
 
-(Add Cart Screenshot)
+![Home Page](screenshots/home.png)
 
+
+## 🛍️ Products Page
+
+![Products Page](screenshots/products.png)
+
+
+## 🛒 Cart Page
+
+![Cart Page](screenshots/cart.png)
+
+
+## ❤️ Wishlist Page
+
+![Wishlist Page](screenshots/wishlist.png)
 
 ---
-
 #  Future Enhancements
 
 Upcoming improvements:
